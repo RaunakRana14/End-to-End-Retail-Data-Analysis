@@ -50,10 +50,10 @@
    - Discounts of 30% and above result in negative profit margins.
    - Higher discounts lead to increasing losses, with 80% discount resulting in a -180% margin.
 
-  #Business Implications
-   - Keep discounts at profitable levels, particularly below 30%, and reduce excessive discounting at 30% and above to avoid      losses.
+    #Business Implications
+      - Keep discounts at profitable levels, particularly below 30%, and reduce excessive discounting at 30% and above to            avoid      losses.
 
-9. Sales Growth
+ 9. Sales Growth
     - Sales increased substantially over the period, with growth accelerating after 2015.
 
   #Business Implications
@@ -73,13 +73,19 @@
 
 Final Conclusion
 
--Overall performance is strong and improving, with sales and profit showing an upward trend over the years.
--Technology and Office Supplies are the strongest categories, while Furniture has comparatively low profitability.
--High-margin products should be prioritized, while low-profit and loss-making products need improvement.
--Excessive discounting reduces profitability, with discounts of 30% and above resulting in negative margins.
--West is the strongest region, while Central needs greater focus on profitability.
--Consumer is the strongest customer segment, while Home Office contributes the least.
--September–December are the strongest months, requiring better inventory and sales planning.
+   -Overall performance is strong and improving, with sales and profit showing an upward trend over the years.
+   
+   -Technology and Office Supplies are the strongest categories, while Furniture has comparatively low profitability.
+   
+   -High-margin products should be prioritized, while low-profit and loss-making products need improvement.
+   
+   -Excessive discounting reduces profitability, with discounts of 30% and above resulting in negative margins.
+   
+   -West is the strongest region, while Central needs greater focus on profitability.
+   
+   -Consumer is the strongest customer segment, while Home Office contributes the least.
+   
+   -September–December are the strongest months, requiring better inventory and sales planning.
    
 
 
