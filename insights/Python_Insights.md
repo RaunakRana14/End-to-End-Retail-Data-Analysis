@@ -1,6 +1,8 @@
 # Python Analysis Insights
 
+
 Python & Advanced Analysis Findings----
+
 
    -Technology generated the highest overall profit, while Furniture showed weaker profitability.
    
@@ -17,6 +19,7 @@ Python & Advanced Analysis Findings----
 
 Main ML Findings----
 
+
    -Linear Regression was the best overall model with 72.02% R² and 116.47 RMSE.
    
    -Discount was the strongest predictor of Profit, with a coefficient of -155.79.
@@ -26,6 +29,7 @@ Main ML Findings----
    -The model provides useful overall profit estimates but has noticeable errors for individual transactions.
 
 Business Recommendations----
+
 
    -Control excessive discounts, especially above 20–30%.
    
